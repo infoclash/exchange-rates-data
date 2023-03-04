@@ -7,7 +7,7 @@ This data is collected with the help of Fixer API, which is one of the reliable 
 
 Data included dated from **1999-01-01** to **2023-02-23**
 
-##### Base Currency Rate
+#### Base Currency Rate
 All currency rates are correspinding to 1USD as a base rate.
 
 ## Currencies Included:
